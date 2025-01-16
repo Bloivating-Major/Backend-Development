@@ -9,11 +9,11 @@ Welcome to my backend development journey! This repository is a collection of my
 
 ## 🗂️ Table of Contents
 
-1. [Introduction](#introduction)
-2. [Episodes Overview](#episodes-overview)
-3. [Resources](#resources)
-4. [Projects](#projects)
-5. [Future Goals](#future-goals)
+1. [Introduction](#-introduction)
+2. [Episodes Overview](#-episodes-overview)
+3. [Resources](#-resources)
+4. [Projects](#-projects)
+5. [Future Goals](#-future-goals)
 
 ---
 
@@ -27,9 +27,11 @@ This repository is a digital space where I document my backend development journ
 
 | **Episode** | **Title**              | **Summary**                                                                 | **Notes**                                      |
 |-------------|------------------------|-----------------------------------------------------------------------------|-----------------------------------------------|
-| 1           | Getting Started        | Basics of backend development and setting up the environment.              | [📄 View PDF Notes](./notes/Episode1.pdf)     |
-| 2           | Introduction to APIs   | Understanding APIs, HTTP methods, and creating a basic API.                | [📄 View PDF Notes](./notes/Episode2.pdf)     |
-| 3           | Coming Soon            | Stay tuned for more updates!                                               | Not yet available.                            |
+| 1           | Introduction to Node Js        | "Any application that can be written in JavaScript, will eventually be written in JavaScript."  **Jeff Atwood, 2007**             | [📄 View Notes](./Episode%2001%20Introduction%20to%20Node%20Js/Readme.md)     |
+| 2           | Js on the Server   | Think of a server as a computer located remotely, waiting to handle your requests!                 | [📄 View Notes](./Episode%2002%20Js%20on%20the%20Server/Readme.md)     |
+| 3           | Let's Write Code           | This episode dives into writing our first backend code, exploring Node.js, and understanding some essential concepts like the **Global Object**. Here's everything you need to know to get started!                                          | [📄 View Notes](./Episode%2003%20Let's%20Write%20Code/Readme.md)                          |
+| 4           | module.export & require           | Node.js treats every file as a **module**, allowing you to share and reuse code effectively. This episode covers everything from importing/exporting modules to handling nested modules and understanding strict vs. non-strict mode.                                        | [📄 View Notes](./Episode%2004%20module.export%20&%20require/Readme.md)                          |
+| 5           | Diving Into Node Js Github Repo           | Let’s uncover the magic behind `require` and how Node.js handles modules under the hood!                                      | [📄 View Notes](./Episode%2005%20Diving%20Into%20Node%20Js%20Github%20Repo/Readme.md)                          |
 
 ---
 
@@ -60,5 +62,3 @@ As I progress, I'll be building projects to apply my skills. Here's a list of up
 - Dive into deployment and scaling techniques.
 
 ---
-
-Would you like me to create this README in a text file for you to edit further or suggest additional details?
